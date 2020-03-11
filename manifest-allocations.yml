@@ -13,3 +13,4 @@ applications:
   - tracker-service-registry
   - tracker-allocations-database
   - tracker-sso
+  - tracker-config-server
